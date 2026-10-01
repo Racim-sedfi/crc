@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"crc.Views","c":"CrcView","l":"CrcView()","u":"%3Cinit%3E()"}];updateSearchResults();
